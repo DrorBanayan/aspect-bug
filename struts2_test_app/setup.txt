@@ -1,0 +1,5 @@
+1. Install Java 8
+2. Install tomcat 7.xx
+3. Copy testapp.war into \apache-tomcat-7.xx\webapps\
+4. run \apache-tomcat-7.xx\bin\startup.bat on Windows
+5. try http://localhost:8080/struts2testApp/index.jsp
